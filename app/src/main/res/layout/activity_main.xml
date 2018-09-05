@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <tk.thinkerzhangyan.imageviews.RoundImageViewA
+            android:layout_margin="5dp"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:src="@drawable/logo"
+            />
+
+        <tk.thinkerzhangyan.imageviews.RoundImageViewB
+            android:layout_margin="5dp"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:src="@drawable/logo"
+            />
+
+        <ImageView
+            android:id="@+id/iv_round_image_one"
+            android:layout_margin="5dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <tk.thinkerzhangyan.imageviews.RoundImageViewC
+            android:layout_margin="5dp"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:src="@drawable/logo"
+            />
+
+        <tk.thinkerzhangyan.imageviews.RoundImageViewD
+            android:layout_margin="5dp"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:src="@drawable/logo"
+            />
+
+        <ImageView
+            android:id="@+id/iv_round_image_two"
+            android:layout_margin="5dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <tk.thinkerzhangyan.imageviews.RoundImageViewE
+            android:layout_margin="5dp"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:src="@drawable/logo"
+            />
+
+        <tk.thinkerzhangyan.imageviews.RoundImageViewF
+            android:layout_margin="5dp"
+            android:layout_width="70dip"
+            android:layout_height="70dip"
+            android:src="@drawable/logo"
+            />
+
+        <ImageView
+            android:id="@+id/iv_round_image_seven"
+            android:layout_margin="5dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <tk.thinkerzhangyan.imageviews.RoundRectImageViewA
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            android:src="@drawable/logo"/>
+        <tk.thinkerzhangyan.imageviews.RoundRectImageViewB
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            android:src="@drawable/logo"/>
+
+        <ImageView
+            android:id="@+id/iv_round_image_three"
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <tk.thinkerzhangyan.imageviews.RoundRectImageViewC
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            android:src="@drawable/logo"/>
+        <tk.thinkerzhangyan.imageviews.RoundRectImageViewD
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            android:src="@drawable/logo"/>
+
+        <ImageView
+            android:id="@+id/iv_round_image_four"
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <tk.thinkerzhangyan.imageviews.RoundRectImageViewE
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            android:src="@drawable/logo"/>
+
+        <tk.thinkerzhangyan.imageviews.RoundRectImageViewF
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            android:src="@drawable/logo"/>
+
+        <ImageView
+            android:id="@+id/iv_round_image_eight"
+            android:layout_margin="5dp"
+            android:layout_width="84dp"
+            android:layout_height="48dp"
+            />
+
+
+    </LinearLayout>
+
+    <!--
+       <tk.thinkerzhangyan.imageviews.MyCircleView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        />
+        -->
+
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/iv_round_image_five"
+            android:layout_margin="5dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/logo"
+            />
+
+        <ImageView
+            android:id="@+id/iv_round_image_six"
+            android:layout_margin="5dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/logo"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="35dp">
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/logo"
+                />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="30dp">
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/logo"
+                />
+        </android.support.v7.widget.CardView>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
