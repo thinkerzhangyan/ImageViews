@@ -165,7 +165,7 @@ Demo链接：[ImageViews][12]
 [Android - 实现图片圆角显示的几种方式][11]
 
 
-  [1]: http://ogts8rw5s.bkt.clouddn.com/roundimageview1.png
+  [1]: http://www.thinkerzhangyan.com/roundimageview1.png
   [2]: https://www.zybuluo.com/946898963/note/1270330
   [3]: https://www.zybuluo.com/946898963/note/1270259
   [4]: https://www.zybuluo.com/946898963/note/1186540
